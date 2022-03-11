@@ -13,6 +13,7 @@
 - In this branch we'll have to merge other branches in this develop branch before we merge it to main.
 - Make sure you are in the correct feature branch before merging to develop branch.
 - **develop** branch is made and make sure you are in the correct branch, use **git checkout branch_name** to navigate between branches.
+- Create feature / topic branches in the develop branch
 
 ### Feature Branch
 
