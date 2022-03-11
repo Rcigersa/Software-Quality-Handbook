@@ -12,9 +12,9 @@
 
 - In this branch we'll have to merge other branches in this develop branch before we merge it to main.
 - Make sure you are in the correct feature branch before merging to develop branch.
-- **develop** branch is made and make sure you are in the correct branch, use **git checkout** to navigate between branches.
+- **develop** branch is made and make sure you are in the correct branch, use **git checkout branch_name** to navigate between branches.
 
 ### Feature Branch
 
 - Create 3 different branches for the spicific topic / feature. In these **branches** this is where we will do our changes.
-- After change, **commit** then **merge** to the **develop** branch.
+- After change, **commit** then **merge** to the **develop** branch. (Don't forget to push)
