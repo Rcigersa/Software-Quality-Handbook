@@ -1,7 +1,15 @@
 # Software-Quality-Handbook
 
- - **Iuliana**: Task estimation in Scrum *(3 resources)* / Coding standards *(2 resources)*
- - **Rosa**: Coding standards *(3 resources)* / Code reviews *(2 resources)*
- - **Jenkin**: Task estimation in Scrum *(2 resources)* / Code reviews *(3 resources)*
+- **Iuliana**: Task estimation in Scrum _(3 resources)_ / Coding standards _(2 resources)_
+- **Rosa**: Coding standards _(3 resources)_ / Code reviews _(2 resources)_
+- **Jenkin**: Task estimation in Scrum _(2 resources)_ / Code reviews _(3 resources)_
 
 500 - 1000 words per topic
+
+## Guide to how we commit our work.
+
+### develop Branch
+
+- In this branch we'll have to merge other branches in this develop branch before we merge it to main.
+- Make sure you are in the correct feature branch before merging to develop branch.
+- **develop** branch is made and make sure you are in the correct branch, use **git checkout** to navigate between branches.
