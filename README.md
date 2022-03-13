@@ -15,7 +15,30 @@
 ### Develop Branch
 
 - After we complete the work on a **feature branch** we merge it into the **develop branch**
-- When merging **feature branches** into the **develop branch** we must create a pull request in github
+- When merging **feature branches** into the **develop branch** we must:
+  1. Make sure we are in the **develop** branch
+
+        > git checkout develop
+
+  2. Use **patching** to merge the folder from the **feature branch** with just one folder in the **develop branch**
+
+        > git checkout --patch *feature-branch-you-want-to-merge* *folder-name-you-want-to-merge*
+
+  3. At the question in command line choose **y** and press enter
+  4. Stage these changes
+
+        > git stage --all
+
+  5. Commit a message with these changes
+
+        > git commit -m "Merge message"
+
+  6. Push these changes to the **develop branch**
+
+        > git push origin develop
+        
+- Once all **feature branches** have been merged into the **develop branch** we merge it into the **main branch**
+
 - Once all **feature branches** have been merged into the **develop branch** we merge it into the **main branch**
 
 ### Feature Branches
