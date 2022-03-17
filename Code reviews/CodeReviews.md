@@ -1,7 +1,7 @@
 # Code Reviews
+For effective code reviews it is necessary to establish the platform and methodology, ensuring the smooth running of the review process. Your role in the review process will be either the author or reviewer. The author creates the code, the reviewer investigates, examines and reports.
 ## Practices to follow when trying to debug a code
-- Establish your role in the review process: author or reviewer. The author creates the code, the reviewer investigates, examines and reports.
-- Establish the platform and methodology to ensure the smooth running of the review process.
+
 - Establish the appropriate review technique: 
   1. Over the Shoulder: author is looked at while investigating the code. Use this method for **short pieces of code only**, as it demands a lot of attention to detail.
   2. Email pass-around: code is sent to reviewers by the author or SCM system.
