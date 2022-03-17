@@ -1,11 +1,11 @@
 # Task Estimation in Scrum
 ## **Why is task estimation important and how is it carried out?**
 To plan and estimate tasks, developers have to complete five processes in the following order: 
-- Create User Stories: should be written by product owner in a way that ensures a clear depiction of the customer’s requirements so that they are comprehensible. 
-- Approve, estimate and commit user stories: approve user stories for a sprint and estimate as a team the work necessary for developing the outlined functionality from process 1. 
-- Create tasks: go back to the now committed user stories from step 2 and divide them into specific tasks documented in a task list. Ideally this is conducted during a task planning meeting. 
-- Estimate Tasks: During task estimation meetings held by the Scrum core team, the necessary efforts for completing each individual task are estimated and documented in an effort estimated task list.
-- Create sprint backlog: During sprint planning meetings held by the Scrum core team, a sprint backlog containing all tasks to be completed in the sprint are created. 
+- **Create User Stories:** should be written by product owner in a way that ensures a clear depiction of the customer’s requirements so that they are comprehensible. 
+- **Approve, estimate and commit user stories:** approve user stories for a sprint and estimate as a team the work necessary for developing the outlined functionality from process 1. 
+- **Create tasks:** go back to the now committed user stories from step 2 and divide them into specific tasks documented in a task list. Ideally this is conducted during a task planning meeting. 
+- **Estimate Tasks:** During task estimation meetings held by the Scrum core team, the necessary efforts for completing each individual task are estimated and documented in an effort estimated task list.
+- **Create sprint backlog:** During sprint planning meetings held by the Scrum core team, a sprint backlog containing all tasks to be completed in the sprint are created. 
 
 
 ## **Estimation in Scrum**
@@ -28,6 +28,16 @@ This gives an overview over the number of tasks to be completed and therefore en
 - Assign values to buckets and select user stories to be sorted into the buckets accordingly. 
 - Discuss the features and requirements of each story.
 - Vote within the team to make decisions.
+
+Ideally, Scrum estimation gives the whole team an overview of the development process and a guideline to follow.   
+Often story points are used to represent values of user stories/tasks in relation to other tasks in the process.
+
+Use hours to measure tasks as it is more accurate.
+While there are no set rules for how values are distributed, but ensure consistency throughout the process. If one story point value is set to 1 = 1h, 3 would equal 3h not 3 days and so on. 
+
+**Dependencies:**  
+**Estimate tasks in real time:** challenges are that the estimations are based on ideal scenarios rather than accounting for real-life challenges such as absences of team members, interruptions, or other problems occurring during the completion process of any given task. It is crucial for team members to define “ideal days”, as definitions may vary and if undetected can cause misalignments within the team.
+
 
 ### **Estimation Techniques**
 The estimation technique you choose is determined by the final results you expect to see. The best way to find a method that works for you and your team is to try it out. Not every strategy will serve its purpose. The end objective of story estimation is the same regardless of which method you select. Various techniques, on the other hand, provide different opportunities for you and your team to engage in a variety of talks, so change your estimation strategy depending on the type of conversation you want to have. What matters most is that you help your team understand the problems and limitations. If estimating takes too long, you are probably not using a strategy correctly. 
@@ -52,22 +62,7 @@ The basic concept is that the product owner hands out a deck of cards to each te
 - It can be time consuming.
 - Some team members may find story points more difficult to estimate than others, resulting in lengthy discussions.
 
-#### **T-Shirt Size**
-T-Shirt Sizing is used to estimate the total size of projects, with different t-shirt sizes functioning as story points. It is a useful way of thinking when estimations are needed. Teams utilize a scale of t-shirt sizes such as XS, S, M, L, XL to provide general estimates on effort, but you can use whatever suits best such as days, weeks, months, depending on your requirements.
 
-<a href="https://www.parabol.co/wp-content/uploads/2021/10/T-Shirt-Sizing-Agile-Estimation-Technique-1.png">
-<img alt="Estimation Techniques" src="https://www.parabol.co/wp-content/uploads/2021/10/T-Shirt-Sizing-Agile-Estimation-Technique-1.png" width="450">
-</a>
-
-*Advantages*
-- This is an easy and enjoyable technique.
-- It is more appropriate for new teams and early estimating phases.
-- Time efficient.
-
-*Disadvantages*
-- False expectations can be created by team members.
-- This strategy always requires the use of another estimating technique afterwards.
-- It is based on an open discussion in which not everyone will get an opportunity to speak.
 
 #### **Dot Voting**
 Dot voting is a simple way of indicating how much effort you expect something to take. This ranking method helps you prioritize these issues by ranking them from most to least important, allowing you to focus your efforts where they are most required.
@@ -108,8 +103,7 @@ The first story point is chosen by the product owner, who then asks the team to 
 
 
 ## **For more information please visit the following online resources:**
-[Scrum Plan and Estimate](https://www.scrumstudy.com/whyscrum/scrum-plan-and-estimate)  
-[When estimation happen in Scrum](https://staragile.com/blog/when-should-estimation-happen-in-scrum)  
+[Scrum Plan and Estimate](https://www.scrumstudy.com/whyscrum/scrum-plan-and-estimate)    
 [Task Estimation with Scrum](https://www.projectmanagement.com/blog-post/46054/Task-Estimation-with-Scrum#:~:text=Estimation%20Techniques,backlog%20item%20to%20similar%20items)  
 [8 Agile Estimation Techniques to Try With your Team](https://www.parabol.co/blog/agile-estimation-techniques/#affinity-estimation)  
 [Agile Estimation Methods in a Nutshell](https://www.goretro.ai/post/agile-estimation-techniques)  
