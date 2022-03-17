@@ -1,5 +1,5 @@
 # Code Reviews
-### Practices to follow when trying to debug a code
+## Practices to follow when trying to debug a code
 - Establish your role in the review process: author or reviewer. The author creates the code, the reviewer investigates, examines and reports.
 - Establish the platform and methodology to ensure the smooth running of the review process.
 - Establish the appropriate review technique: 
@@ -12,15 +12,23 @@
 - Maintaining a consistent coding style is necessary to allow the company to respond to errors in a fast and efficient manner, as well as enable efficient design and implementation processes. 
 - We aim to provide secure applications, which can only be achieved if employees follow the security review protocols. 
 - Appropriate code review enables us to deliver services and create projects our stakeholders trust and come back to. 
+- Following appropriate review techniques will allow employees to constantly learn and improve and strengthen each other. (Teamwork)
 
-### When reviewing codes
-- **Do not attempt** to review more than 400 lines of code (LOC) to ensure that information are processed appropriately. Any more LOC over a prolonged period of time will not bring the desired results.
+## When reviewing codes
+- We are implementing code review as a mean to ensure quality. 
+    -	Establish the framework of the code development process such as **discussing annotation practices**.
+    -	Allow for important information to be **peer reviewed** to ensure alignment within the review team. 
+    -	Ensure that errors are found and fixed.
+    -   Always leave comments
+        - This is an essential part to take some time and explain significant pieces. This a language of communication between programmer and user. 
+        - It's very useful when checking variables, functions, complex loops and conditional statements.
+- **Do not attempt** to review more than 400 lines of code (**LOC**) to ensure that information are processed appropriately. Any more LOC over a prolonged period of time will not bring the desired results.
   
 - **Take and manage your time appropriately**. Do not skim over the code, forcing other reviewers to pick up on errors that were missed.
   
 - **Do not exceed** a review period of 60 minutes to ensure a more focused review. And allow for sufficient breaks of about 20 minutes.
   
-- **Conduct frequent reviews** to avoid having to review many LOC.
+- **Conduct frequent reviews** to avoid having to review many **LOC**.
   
 - Establish and document a set of **SMART** goals to maintain a record of and create a guideline for the review process.
   
@@ -29,8 +37,10 @@
 - **Use an appropriate review tool** such as Collaborator, Codebrag, Gerrit, Rhodecode, Crucible, Review Board, JArchitect, or Peer Review Plugin for increased support and accuracy.
   
 - **Adhere to formatting standards** to ensure consistency and accuracy (formatting, alignments, naming, space, comments, architecture).
+  
 
 
 ## Online Resources
-[Code review best practices](https://medium.com/cuelogic-technologies/code-review-process-best-practices-3eeecab26ded)
-[Guide to code review process](https://smartbear.com/learn/code-review/guide-to-code-review-process/#:~:text=Code%20Review%20is%20an%20integral,most%20effective%20quality%20assurance%20strategy)
+- [Code review best practices](https://medium.com/cuelogic-technologies/code-review-process-best-practices-3eeecab26ded)
+- [Guide to code review process](https://smartbear.com/learn/code-review/guide-to-code-review-process/#:~:text=Code%20Review%20is%20an%20integral,most%20effective%20quality%20assurance%20strategy)
+- [Why code reviews matter](https://www.atlassian.com/agile/software-development/code-reviews)
