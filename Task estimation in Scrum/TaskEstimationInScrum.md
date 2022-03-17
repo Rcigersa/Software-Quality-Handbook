@@ -31,6 +31,6 @@ This gives an overview over the number of tasks to be completed and therefore en
 - Vote within the team to make decisions.
 
 ## Online resources
-[title](https://www.scrumstudy.com/whyscrum/scrum-plan-and-estimate)
-[title](https://staragile.com/blog/when-should-estimation-happen-in-scrum)
-[title](https://www.projectmanagement.com/blog-post/46054/Task-Estimation-with-Scrum#:~:text=Estimation%20Techniques,backlog%20item%20to%20similar%20items)
+[Scrum Plan and Estimate](https://www.scrumstudy.com/whyscrum/scrum-plan-and-estimate)
+[When estimation happen in Scrum](https://staragile.com/blog/when-should-estimation-happen-in-scrum)
+[Task Estimation with Scrum](https://www.projectmanagement.com/blog-post/46054/Task-Estimation-with-Scrum#:~:text=Estimation%20Techniques,backlog%20item%20to%20similar%20items)
