@@ -10,11 +10,11 @@
 
 ### Main Branch
 
-The [**main branch**](/tree/main) will be used to hold the final version of this project.
+The **main branch** will be used to hold the final version of this project.
 
 ### Develop Branch
 
-- After we complete the work on a **feature branch** we merge it into the [**develop branch**](/tree/develop).
+- After we complete the work on a **feature branch** we merge it into the **develop branch**.
 - When merging **feature branches** into the **develop branch** we must:
   1. Make sure we are in the **develop** branch
 
