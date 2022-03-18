@@ -42,17 +42,17 @@ The [**main branch**](/tree/main) will be used to hold the final version of this
 ### Feature Branches
 
 - There are 3 different branches for each topic
-  - [***code-reviews-feature***](/tree/code-reviews-feature)
-  - [***coding-standards-feature***](/tree/coding-standards-feature)
-  - [***task-estimation-feature***](/tree/task-estimation-feature)
+  - ***code-reviews-feature***
+  - ***coding-standards-feature***
+  - ***task-estimation-feature***
 - In each branch there is a folder for each topic
-  - [***Code reviews***](/tree/code-reviews-feature/Code%20reviews)
-  - [***Coding standards***](/tree/develop/Coding%20standards)
-  - [***Task estimation in Scrum***](/task-estimation-feature/Task%20estimation%20in%20Scrum)
+  - ***Code reviews***
+  - ***Coding standards***
+  - ***Task estimation in Scrum***
 - In each folder there is a file for each topic
-  - [***CodeReviews.md***](/blob/code-reviews-feature/Code%20reviews/CodeReviews.md)
-  - [***CodingStandards.md***](/blob/coding-standards-feature/Coding%20standards/CodingStandards.md)
-  - [***TaskEstimationInScrum.md***](/blob/task-estimation-feature/Task%20estimation%20in%20Scrum/TaskEstimationInScrum.md)
+  - [***CodeReviews.md***](/Code%20reviews/CodeReviews.md)
+  - [***CodingStandards.md***](/Coding%20standards/CodingStandards.md)
+  - [***TaskEstimationInScrum.md***](/Task%20estimation%20in%20Scrum/TaskEstimationInScrum.md)
 - When editing a file we must:
   1. Make sure we are in the correct **feature branch**
 
