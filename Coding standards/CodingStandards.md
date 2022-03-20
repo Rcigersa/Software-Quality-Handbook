@@ -211,10 +211,9 @@ else {
 ```
 
 ## **For more information please visit the following online resources:**
-[Coding Best Practices: How to Use Coding Standards](https://www.perforce.com/blog/qac/coding-best-practices-how-use-coding-standards)  
-[Guide To WordPress Coding Standards](https://www.smashingmagazine.com/2012/07/guide-wordpress-coding-standards/) 
-[Why Coding Standards Matter](https://blog.codacy.com/why-coding-standards-matter/) 
-[Why You Need Coding Standards](https://www.sitepoint.com/coding-standards/) 
-[Why Coding Standards and Best Practices are Important?](https://www.linkedin.com/pulse/why-coding-standards-best-practices-important-vikas-kulhari) 
-
+- [Coding Best Practices: How to Use Coding Standards](https://www.perforce.com/blog/qac/coding-best-practices-how-use-coding-standards)
+- [Guide To WordPress Coding Standards](https://www.smashingmagazine.com/2012/07/guide-wordpress-coding-standards/)
+- [Why Coding Standards Matter](https://blog.codacy.com/why-coding-standards-matter/)
+- [Why You Need Coding Standards](https://www.sitepoint.com/coding-standards/)
+- [Why Coding Standards and Best Practices are Important?](https://www.linkedin.com/pulse/why-coding-standards-best-practices-important-vikas-kulhari)
 
