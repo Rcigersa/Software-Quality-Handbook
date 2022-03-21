@@ -66,9 +66,9 @@ We can discuss the investigation of technical factors and surveys of non-technic
 
 - **Investigation of non-technical factors:** As stated by ***Czerwonka*** et al. *(2015)*, the social network that emerges within companies or projects should be considered, as well as the specific skills of the auditors and their willingness and willingness to review. A social network analysis of three open-source projects *(Yang 2014)* revealed that the most active reviewers have central roles in those projects' social networks and are often some of the most important contributors. ***Bosu*** et al. *(2015)* noted, in one particular organization, that 75% of the feedback on code review comes from members of the author's team, but they are slightly less helpful than those of other teams. ***Baysal*** et al. *(2016)*, in turn, pointed out that when multiple organizations contribute to the same project, the code review can take longer to complete and have higher rejection rates depending on the organization that is creating or reviewing a patch—based on the analysis of several case studies.
 
-[**CLICK HERE for looking at: Influence factors and review outcomes investigated by previous studies**](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0/tables/1)
+[**More information about: Influence factors and review outcomes investigated by previous studies**](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0/tables/1)
 
-## Online Resources
+## For more information please visit the following online resources:
 - [Code review best practices](https://medium.com/cuelogic-technologies/code-review-process-best-practices-3eeecab26ded)
 - [Guide to code review process](https://smartbear.com/learn/code-review/guide-to-code-review-process/#:~:text=Code%20Review%20is%20an%20integral,most%20effective%20quality%20assurance%20strategy)
 - [Why code reviews matter](https://www.atlassian.com/agile/software-development/code-reviews)
