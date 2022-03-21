@@ -90,3 +90,4 @@ The **main branch** will be used to hold the final version of this project.
 - When we created our feature branches we kept just the relevant folder in each branch
 - This resulted in us having to use patching when merging the feature branches into the develop branch to avoid folder deletion
 - If we were to keep the feature branches the same as the develop branch we would have been able to do normal pull requests from the feature branches
+
